@@ -1,0 +1,26 @@
+{
+  "name": "typescript_webpack_tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kami8ma8810/typescript_webpack_tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kami8ma8810/typescript_webpack_tutorial/issues"
+  },
+  "homepage": "https://github.com/kami8ma8810/typescript_webpack_tutorial#readme",
+  "volta": {
+    "node": "14.20.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
